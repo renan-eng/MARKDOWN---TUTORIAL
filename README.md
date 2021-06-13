@@ -1,9 +1,5 @@
 # Bem Vindo ao Aprendendo MARKDOWN :wave:
 
-Sumário pode ser feito assim: ``[toc]`` 'Table of contents'.
-
-[toc]
-
 ***
 
 ### Sintaxes mais comum 
