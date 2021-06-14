@@ -1,0 +1,1 @@
+Este arquivo é um exemplo didático para aprender mais sobre o funcionamento do Git.
